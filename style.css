@@ -1,8 +1,8 @@
 body {background-color:white}
 h1, h2 {color:red;}
-.left-coloumn{
+.left-right{
 	float:right;
 	width:50%;
 	paddgin:50px;
-	
+
 }
