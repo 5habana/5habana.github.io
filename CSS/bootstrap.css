@@ -12,7 +12,7 @@ html {
 }
 
 .img-circle {
-  size: 50%;
+  wid: 50%;
 }
 body {
   margin: 0;
